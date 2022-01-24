@@ -7,5 +7,6 @@ Find out more about my work:
 - Main projects on Github:
 	- [Eventdisplay Reconstruction Software](https://github.com/Eventdisplay)
 	- [Gammasim-tools Simulation Tools](https://github.com/gammasim)
+	- [VTSCat - a catalog of high-level data products from all publications of the VERITAS collaboration](https://github.com/VERITAS-Observatory/VERITAS-VTSCat)
 
 You can also find me on [Twitter](https://twitter.com/GernotMaier)
