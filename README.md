@@ -8,4 +8,4 @@ Find out more about my work:
 	- [Eventdisplay Reconstruction Software](https://github.com/Eventdisplay)
 	- [Gammasim-tools Simulation Tools](https://github.com/gammasim)
 
-You can find me on [Twitter](https://twitter.com/GernotMaier)
+You can also find me on [Twitter](https://twitter.com/GernotMaier)
