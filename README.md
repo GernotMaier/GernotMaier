@@ -7,7 +7,7 @@ I am a specialist in simulations and reconstruction methods for ground-based gam
 Much of my work is carried out as a member of the [Cherenkov Telescope Array (CTA)](https://www.cta-observatory.org) Observatory and of the [VERITAS Collaboration](https://veritas.sao.arizona.edu).
 
 Find out more about my work:
-- [publications on ORCID](https://orcid.org/0000-0001-9868-4700)
+- [biography and publications on ORCID](https://orcid.org/0000-0001-9868-4700)
 - Main projects on Github:
 	- [Eventdisplay Reconstruction Software](https://github.com/Eventdisplay)
 	- [Gammasim-tools Simulation Tools](https://github.com/gammasim)
