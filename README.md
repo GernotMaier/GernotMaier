@@ -14,3 +14,11 @@ Find out more about my work:
 	- [VTSCat - a catalog of high-level data products from all publications of the VERITAS collaboration](https://github.com/VERITAS-Observatory/VERITAS-VTSCat)
 
 You can also find me on [Twitter](https://twitter.com/GernotMaier)
+
+<center>
+  <table>
+  <tr>
+      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=gernotmaier&show_icons=true&hide_border=true&count_private=true&layout=compact" /></td>
+</tr>   
+</table>
+</center>
