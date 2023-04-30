@@ -9,14 +9,6 @@ Much of my work is carried out as a member of the [Cherenkov Telescope Array (CT
 Find out more about my work and publications on [ORCID](https://orcid.org/0000-0001-9868-4700).
 You can also find me on [Twitter](https://twitter.com/GernotMaier)
 
-<center>
-  <table>
-  <tr>
-      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=gernotmaier&show_icons=true&hide_border=true&count_private=true&layout=compact" /></td>
-</tr>   
-</table>
-</center>
-
 ### :pushpin: My projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=veritas-observatory&repo=veritas-vtscat)](https://github.com/VERITAS-Observatory/VERITAS-VTSCat)
