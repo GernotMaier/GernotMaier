@@ -1,8 +1,8 @@
 ### Hi there, I’m Gernot
 
-I am an astrophysicist 🔭 🔭 at [DESY](https://astroparticle-physics.desy.de) and [CTAO](https://www.cta-observatory.org). My main working fields are gamma-ray astronomy, high-energy emission from the direction of black holes or neutron stars, transient astrophysical sources, and the nature of dark matter. 
+I am an astrophysicist 🔭 🔭 at [DESY](https://astroparticle-physics.desy.de). My main working fields are gamma-ray astronomy, high-energy emission from the direction of black holes or neutron stars, transient astrophysical sources, and the nature of dark matter. 
 
-I am a specialist in simulations and reconstruction methods for ground-based gamma-ray astronomy. I am also working in the framework of the National Research Data Infrastructure Germany (NFDI, [PUNCH4NFDI](https://www.punch4nfdi.de/)) on the implementation of FAIR data management workflows and archives in high-energy astronomy.
+I am a specialist in simulations and reconstruction methods for ground-based gamma-ray astronomy.
 
 Much of my work is carried out as a member of the [Cherenkov Telescope Array (CTA)](https://www.cta-observatory.org) Observatory and of the [VERITAS Collaboration](https://veritas.sao.arizona.edu).
 
