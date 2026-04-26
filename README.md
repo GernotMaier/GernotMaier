@@ -1,6 +1,6 @@
 ### Hi there, I’m Gernot
 
-I am an astrophysicist 🔭 🔭 at [DESY](https://astroparticle-physics.desy.de) and [CTAO](https://www.cta-observatory.org). My main working fields are gamma-ray astronomy, high-energy emission from the direction of black holes or neutron stars, transient astrophysical sources, and the nature of dark matter. 
+I am an astrophysicist 🔭 🔭 at [DESY](https://astroparticle-physics.desy.de). My main working fields are gamma-ray astronomy, high-energy emission from the direction of black holes or neutron stars, transient astrophysical sources, and the nature of dark matter. 
 
 I am a specialist in simulations and reconstruction methods for ground-based gamma-ray astronomy.
 
